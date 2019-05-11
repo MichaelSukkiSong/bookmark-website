@@ -165,7 +165,7 @@
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="67" />
     <option name="y" value="25" />
-    <option name="width" value="1119" />
+    <option name="width" value="1165" />
     <option name="height" value="1175" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -251,19 +251,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557549958771</updated>
-      <workItem from="1557549960903" duration="14219000" />
+      <workItem from="1557549960903" duration="14376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14219000" />
+    <option name="totallyTimeSpent" value="14376000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1119" height="1175" extended-state="4" />
+    <frame x="67" y="25" width="1165" height="1175" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23671947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22698838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
